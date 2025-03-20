@@ -2,7 +2,7 @@
   function Titulo()
 
   {
-    return "prueba de componente";
+    return "prueba github";
   
   }
   
